@@ -11,3 +11,6 @@ latitude
 longitude
 created_at
 modified_at
+
+
+Django field errors and non field errors
